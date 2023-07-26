@@ -45,7 +45,7 @@ const Hero = () => {
               <p>
                 I'm a passionate and responsible{' '}
                 <span>full stack javascript developer</span>, with more than 5 years of
-                experience. Skilled in developing highly responsive websites and
+                experience. Skilled in developing highly responsive websites,
                 mobile apps and backend servers with  efficient code and unit test cases.
               </p>
             </div>
