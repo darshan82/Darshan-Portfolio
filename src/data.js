@@ -54,6 +54,13 @@ export const config = {
           buttonLink: 'https://www.gamitar.com/',
           buttonText: 'CHECK OUT',
         },
+        {
+          heading: 'Pro Bono Zone™ - Connecting. Empowering. Elevating Lives.',
+          description: 'Contributed to creating complete landing pages, portal, and backend server on Node.js and SQL, deployed on Digital Ocean. Pro Bono Zone™ connects individuals with seasoned attorneys, offering free consultations in a safe, private, and supportive environment. Created an intuitive website with logo, home, about, FAQ, sponsors, and contact sections.',
+          animationDelay: '900',
+          buttonLink: 'https://pro-bone-zone.vercel.app/',
+          buttonText: 'CHECK OUT',
+        }
       ],
 
     },
