@@ -5,14 +5,17 @@ import TagCloud from 'TagCloud';
 
 import '../../styles/Skill/Skill.scss';
 
-const Skill = () => {
+const Skill = () =>
+{
   // Animation settings for Text Cloud
-  useEffect(() => {
+  useEffect(() =>
+  {
     const container = '.tagcloud';
     let radii;
 
     // If 3D Text Sphere is not showing up after deployment remove the return (i.e, return() =>{}) function from below code
-    return () => {
+    return () =>
+    {
       const texts = [
         'HTML',
         'CSS',
@@ -20,21 +23,24 @@ const Skill = () => {
         'JavaScript',
         'React',
         'Vue',
-        'Nuxt',
+        'Next',
         'NodeJS',
-        'Shopify',
-        'Jquery',
-        'ES6',
-        'GIT',
-        'GITHUB',
+        'React Native',
+        'AWS',
+        'MongoDB',
+        'Microsoft Commerce Dynamics',
+        'Redux',
       ];
 
 
       // Decrasing 'radius' value for small screen devices  
-      function radiusValue() {
-        if (window.screen.width <= 778) {
+      function radiusValue()
+      {
+        if (window.screen.width <= 778)
+        {
           radii = 150;
-        } else {
+        } else
+        {
           radii = 290;
         }
         return radii;
@@ -111,14 +117,15 @@ const Skill = () => {
                     </li>
                     <li>
                       <span>
-                        <b>Preprocessors:</b> PUG, SASS
+                        <b>Preprocessors:</b> LESS, SASS
                       </span>
                     </li>
                     <li>
                       <span>
-                        <b>Modular:</b> BEM
+                        <b>CSS Libraries:</b> Bootstrap, Material UI, AntD
                       </span>
                     </li>
+
                   </ul>
                 </div>
                 <div className="skill__details">
@@ -127,20 +134,39 @@ const Skill = () => {
                     <li>
                       <span>
                         <b>Frameworks & Libraries:</b> &nbsp; React JS, React
-                        Native, Vue.js, Nuxt
+                        Native, Vue.js, Next
                       </span>
                     </li>
+
                     <li>
-                      <span>ES5/ES6</span>
-                    </li>
-                    <li>
-                      <span>Node.js</span>
-                    </li>
-                    <li>
-                      <span>jQuery</span>
+                      <span>React Native</span>
                     </li>
                     <li>
                       <span>Typescript</span>
+                    </li>
+                    <li>
+                      <span>
+                        RxJS
+                      </span>
+                    </li>
+                    <li>
+                      <span>
+                        GraphQL
+                      </span>
+                    </li>
+                  </ul>
+                </div>
+                <div className="skill__details">
+                  <h4>State Management</h4>
+                  <ul>
+                    <li>
+                      <span>Redux</span>
+                    </li>
+                    <li>
+                      <span>Mobx</span>
+                    </li>
+                    <li>
+                      <span>Zustand</span>
                     </li>
                   </ul>
                 </div>
@@ -152,13 +178,58 @@ const Skill = () => {
                     </li>
                   </ul>
                 </div>
+
+                <div className="skill__details">
+                  <h4>Database</h4>
+                  <ul>
+                    <li>
+                      <span>SQL</span>
+                    </li>
+                    <li>
+                      <span>MongoDb</span>
+                    </li>
+                  </ul>
+                </div>
+
+                <div className="skill__details">
+                  <h4>Project Management</h4>
+                  <ul>
+                    <li>
+                      <span>Agile & Scrum</span>
+                    </li>
+                    <li>
+                      <span>JIRA</span>
+                    </li>
+                    <li>
+                      <span>Trello</span>
+                    </li>
+                    <li>
+                      <span>Asana</span>
+                    </li>
+                  </ul>
+                </div>
+
                 <div className="skill__details">
                   <h4>E-Commerce</h4>
                   <ul>
                     <li>
-                      <span>Shopify</span>
+                      <span>Microsoft Commerce Dynamics</span>
                     </li>
                   </ul>
+                </div>
+                <div className="skill__details">
+                  <h4>Cloud</h4>
+                  <ul>
+                    <li>
+                      <span>Firebase</span>
+                    </li>
+                  </ul>
+                  <ul>
+                    <li>
+                      <span>AWS</span>
+                    </li>
+                  </ul>
+                 
                 </div>
                 <div className="skill__details">
                   <h4>Server Side</h4>
@@ -170,7 +241,7 @@ const Skill = () => {
                       <span>Express.js</span>
                     </li>
                     <li>
-                      <span>MongoDB</span>
+                      <span>Rabbit MQ</span>
                     </li>
                   </ul>
                 </div>

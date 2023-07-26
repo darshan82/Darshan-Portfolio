@@ -3,7 +3,8 @@ import { Link } from "react-router-dom";
 
 import "../../styles/About/About.scss";
 
-const About = () => {
+const About = () =>
+{
 
   return (
     <>
@@ -73,8 +74,8 @@ const About = () => {
                   H<span>ello,</span>
                 </h2>
                 <p>
-                  I am <span>Your Name Here.</span> <br /> Highly passoinate
-                  front-end Developer with more than 1.5 years of experience.
+                  I am <span>Darshan Lal.</span> <br /> Highly passoinate
+                  Senior Full Stack JavaScript Developer with more than 5 years of experience.
                 </p>
               </Link>
             </div>
@@ -93,10 +94,10 @@ const About = () => {
                   E<span>xperience</span>
                 </h2>
                 <p>
-                  <span>6 month of experience.</span>
-                  <br />I have more than 1.5 years of experience in developing
-                  highly responsive frontend of websites using React.js and
-                  Vue.js
+                  <span>5 year of experiences.</span>
+                  <br />I have more than 5 years of experience in developing
+                  highly responsive frontend of websites, moblile applications and backend using React.js,React Native and
+                  Node.js
                 </p>
               </Link>
             </div>
@@ -112,20 +113,20 @@ const About = () => {
                   0<span>3</span>
                 </h1>
                 <h2>
-                  I<span>nternships</span>
+                  <span>Work Experience</span>
                 </h2>
-                <p>
-                  <span>Interned at -</span> <br />
-                </p>
                 <ul>
                   <li>
-                    <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
+                    <span>Systems LTD Karachi, Pakistan 07/2023 – Today</span> - Consultant Software Developer{" "}
                   </li>
                   <li>
-                    <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
+                    <span>Next Generation Innovation, Karachi, Pakistan 01/2022 – june/2023</span> - Senior Full-Stack Developer{" "}
                   </li>
                   <li>
-                    <span>XYZ Pvt Ltd</span> - Front-end Developer{" "}
+                    <span>Trukkr Pvt Limited, Karachi, Pakistan 07/2019 – 01/2022</span> - Senior Full Stack Developer{" "}
+                  </li>
+                  <li>
+                    <span>Gamitar Learningi, India (Remote) 05/2018 –06/2019</span> - Frontend Developer{" "}
                   </li>
                 </ul>
               </Link>
@@ -145,10 +146,19 @@ const About = () => {
                   E<span>ngineering</span>
                 </h2>
                 <p>
-                  <span>College Name </span>
+                  <span>Muhmmad Ali Jinnah University, Karachi, Pakistan 07/2020 – 06/2022
+                  </span>
                   <br />
-                  Description.... Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam vitae aliquid dolorum qui reiciendis mollitia, itaque dolores eaque ullam quo soluta libero! Natus.
+                  Masters in Software Engineering
                 </p>
+
+                <p>
+                  <span>Mehran University of Engineering and Technology, Jamshoro, Pakistan 01/2015 – 10/2018
+                  </span>
+                  <br />
+                  Bachelor in Software Engineering
+                </p>
+
               </Link>
             </div>
           </div>

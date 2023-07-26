@@ -11,7 +11,7 @@ const Footer = () => {
       <div className="footer">
         <div className="footer__container">
           <p>
-            Made with <FontAwesomeIcon icon={faHeart} size="sm" /> by codemmit
+            Made with <FontAwesomeIcon icon={faHeart} size="sm" /> by Darshan
           </p>
         </div>
       </div>

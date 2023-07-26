@@ -53,6 +53,27 @@ const Header = () => {
       <div className="header">
         <div className="header__container">
           <div className="header__logo">
+          <span data-aos="fade-down" data-aos-delay="0">
+              D
+            </span>
+            <span data-aos="fade-down" data-aos-delay="0">
+              A
+            </span> <span data-aos="fade-down" data-aos-delay="0">
+              R
+            </span> <span data-aos="fade-down" data-aos-delay="0">
+              S
+            </span> <span data-aos="fade-down" data-aos-delay="0">
+              H
+            </span> <span data-aos="fade-down" data-aos-delay="0">
+              A
+            </span> 
+            <span data-aos="fade-down" data-aos-delay="0">
+              N
+            </span>
+            <span data-aos="fade-down" data-aos-delay="0" style={{marginRight:20}}>
+              's
+            </span>
+            
             <span data-aos="fade-down" data-aos-delay="0">
               P
             </span>

@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 
 import '../../styles/Hero/Hero.scss';
 
-import Myself from '../../assets/images/myself.png';
+import Myself from '../../assets/images/myself.jpeg';
 
 const Hero = () => {
   useEffect(() => {
@@ -25,71 +25,16 @@ const Hero = () => {
           <div className="hero__intro-box">
             <p className="hero__intro-title">
               <span className="hero__intro-line" data-aos="fade-down"></span>
-              Hello, I am Name
+              Hello, I am Darshan
             </p>
             <p className="hero__animated-alphabet-box">
-              <span
-                className="hero__alphabet"
-                data-aos="fade-up"
-                data-aos-delay="200"
-              >
-                F
-              </span>
-              <span
-                className="hero__alphabet"
-                data-aos="fade-up"
-                data-aos-delay="400"
-              >
-                R
-              </span>
-              <span
-                className="hero__alphabet"
-                data-aos="fade-up"
-                data-aos-delay="600"
-              >
-                O
-              </span>
-              <span
-                className="hero__alphabet"
-                data-aos="fade-up"
-                data-aos-delay="800"
-              >
-                N
-              </span>
-              <span
-                className="hero__alphabet"
-                data-aos="fade-up"
-                data-aos-delay="1000"
-              >
-                T
-              </span>
-              <span
-                className="hero__alphabet"
-                data-aos="fade-up"
-                data-aos-delay="1200"
-              >
-                E
-              </span>
-              <span
-                className="hero__alphabet"
-                data-aos="fade-up"
-                data-aos-delay="1400"
-              >
-                N
-              </span>
-              <span
-                className="hero__alphabet hero__alphabet--last"
-                data-aos="fade-up"
-                data-aos-delay="1600"
-              >
-                D
-              </span>
+            
               <span
                 className="hero__developer-text"
                 data-aos="zoom-out-down"
                 data-aos-delay="1800"
               >
-                <span className="hero__dev-text">Developer</span>
+                <span className="hero__dev-text">Javascript Developer</span>
               </span>
             </p>
             <div
@@ -99,9 +44,9 @@ const Hero = () => {
             >
               <p>
                 I'm a passionate and responsible{' '}
-                <span>front-end developer</span>, with more than 1.5 years of
+                <span>full stack javascript developer</span>, with more than 5 years of
                 experience. Skilled in developing highly responsive websites and
-                mobile apps with elegant and efficient code.
+                mobile apps and backend servers with  efficient code and unit test cases.
               </p>
             </div>
 
@@ -125,7 +70,7 @@ const Hero = () => {
             </div>
           </div>
           <div className="hero__image" data-aos="zoom-in" data-aos-delay="200">
-            <img src={Myself} alt="me" />
+            <img src={Myself} alt="me" style={{borderRadius:200,filter: "grayscale(20%)"}} />
           </div>
         </div>
       </div>

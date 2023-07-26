@@ -4,43 +4,58 @@ export const config = {
     projectCard: {
       cards: [
         {
-          heading: 'Project Name Here',
-          description:
-            'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
-          animationDelay: '300',
-          buttonLink: 'https://codemmit.tech/',
-          buttonText: 'CHECK OUT',
-        },
-        {
-          heading: 'Project Name Here',
-          description:
-            'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
-          animationDelay: '500',
-          buttonLink: 'https://codemmit.tech',
-          buttonText: 'CHECK OUT',
-        },
-        {
-          heading: 'Project Name Here',
-          description: 'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
+          heading: 'Trukkr - Online Logistics Platform',
+          description: 'Played a vital role at Trukkr, a Pakistani startup with 6M USD funding, by designing features, creating 2 microservices, and handling end to end development of websites and portals.',
           animationDelay: '700',
-          buttonLink: 'https://codemmit.tech',
+          buttonLink: 'https://trukkr.pk/',
           buttonText: 'CHECK OUT',
         },
         {
-          heading: 'Project Name Here',
-          description:
-            'Project description. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto mollitia at, neque iste, cupiditate distinctio ipsam animi iure nam inventore eos illo officiis voluptatibus labore est nulla totam magni minima blanditiis,',
+          heading: 'Trukkr Ada - Mobile Platform to connect corporations and transporters',
+          description: 'Worked on end-to-end flows of accepting trips, bidding, and assigning vehicles/drivers and created the logic for handling the user journey. Created 20+ custom reusable components and UI Kitten. Built 5 Rest APIs using Node.js for the bidding process. Also, set up the automated testing environment using Jest and wrote stress test cases for the backend using JMeter.',
           animationDelay: '900',
-          buttonLink: 'https://codemmit.tech',
+          buttonLink: 'https://play.google.com/store/apps/details?id=com.trukkrPak.transporter',
           buttonText: 'CHECK OUT',
         },
         {
-          heading: 'Under Construction',
-          description: '</>',
-          animationDelay: '1100',
-          buttonText: '',
+          heading: 'Meri Gari - Logistics Platform',
+          description: 'Contributed to the development of Meri Gari, a logistics platform connecting corporations and transporters, managing 8k+ trips. Built 20+ reusable components and deployed unit testing with 80% code coverage.',
+          animationDelay: '500',
+          buttonLink: 'https://merigari.com',
+          buttonText: 'CHECK OUT',
+        },
+        {
+          heading: 'Shipox - SaaS for Delivery Management',
+          description: 'Developed features for Shipox, a delivery management SaaS platform used by 60k+ businesses worldwide. Implemented 1,300+ permissions for user access using React.js and Redux.',
+          animationDelay: '300',
+          buttonLink: 'https://shipox.com/',
+          buttonText: 'CHECK OUT',
+        },
+
+
+        {
+          heading: 'The Contract Master - Procurement Web Platform',
+          description: 'Contributed to The Contract Master, an online platform for businesses to manage contracts. Developed features, wrote unit tests with 80% coverage, and deployed the app using AWS S3.',
+          animationDelay: '900',
+          buttonLink: 'https://www.thecontractmaster.com/',
+          buttonText: 'CHECK OUT',
+        },
+        {
+          heading: 'The Contract Master - Procurement Mobile Platform',
+          description: 'Contributed to The Contract Master, an online platform for businesses to manage contracts. Developed complete app using react native, typescript and native base with zustand for vendors and suppliers',
+          animationDelay: '900',
+          buttonLink: 'https://play.google.com/store/search?q=the%20contract%20master&c=apps',
+          buttonText: 'CHECK OUT',
+        },
+        {
+          heading: 'Gamitar - Game Based Learning',
+          description: 'Contributed to the development of Game-Based Learning platform, creating end-to-end game experiences for mobile and web. Also designed an admin portal for facilitators, making gamified learning easy for Fortune 500 companies and global facilitators.',
+          animationDelay: '900',
+          buttonLink: 'https://www.gamitar.com/',
+          buttonText: 'CHECK OUT',
         },
       ],
+
     },
     internships: {
       internship: [
