@@ -126,7 +126,7 @@ const About = () =>
                     <span>Trukkr Pvt Limited, Karachi, Pakistan 07/2019 – 01/2022</span> - Senior Full Stack Developer{" "}
                   </li>
                   <li>
-                    <span>Gamitar Learningi, India (Remote) 05/2018 –06/2019</span> - Frontend Developer{" "}
+                    <span>Gamitar Learning, India (Remote) 05/2018 –06/2019</span> - Frontend Developer{" "}
                   </li>
                 </ul>
               </Link>
