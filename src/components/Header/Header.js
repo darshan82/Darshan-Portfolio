@@ -134,6 +134,17 @@ const Header = () => {
               <div className="header__nav-links-container">
                 <li
                   className="header__route"
+                  ref={navLinkWork}
+                  data-aos="fade-down"
+                  data-aos-delay="200"
+                >
+                  <a href="#skills">Skills</a>
+                </li>
+                <div className="header__route-bg"></div>
+              </div>
+              <div className="header__nav-links-container">
+                <li
+                  className="header__route"
                   ref={navLinkContact}
                   data-aos="fade-down"
                   data-aos-delay="300"

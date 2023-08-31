@@ -58,7 +58,7 @@ const Skill = () =>
   }, []);
   return (
     <>
-      <div className="skill">
+      <div className="skill" id="skills">
         <div className="skill__main-container">
           <div className="skill__header" id="skill__heading">
             <h1>

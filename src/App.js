@@ -16,7 +16,8 @@ import Skill from './components/Skill/Skill';
 import Footer from './components/Footer/Footer';
 import Contact from './components/Contact/Contact';
 
-function App() {
+function App()
+{
   return (
     <>
       <BrowserRouter>
@@ -26,7 +27,7 @@ function App() {
             path="/"
             element={
               <>
-                <Header /> <Hero /> <Works /> <About /> <Skill /> <Contact />
+                <Header /> <Hero />  <About /> <Works /><Skill /> <Contact />
                 <Footer />
               </>
             }
