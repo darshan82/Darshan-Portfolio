@@ -117,7 +117,7 @@ const About = () =>
                 </h2>
                 <ul>
                   <li>
-                    <span>Systems LTD Karachi, Pakistan 07/2023 – Today</span> - Consultant Software Developer{" "}
+                    <span>Transferred from Systems LTD Pakistan to Tech Vista, Dubai UAE 07/2023 – Today</span> - Consultant Software Developer{" "}
                   </li>
                   <li>
                     <span>Next Generation Innovation, Karachi, Pakistan 01/2022 – june/2023</span> - Senior Full-Stack Developer{" "}

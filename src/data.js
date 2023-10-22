@@ -4,6 +4,20 @@ export const config = {
     projectCard: {
       cards: [
         {
+          heading: 'Grattan',
+          description: 'I spearheaded the front-end development of the Product Cart page, seamlessly integrating MS Dynamics Commerce 365 and React.js while ensuring 100% code coverage through Jest and React Testing Library. Additionally, I customized multiple CRM pages to precisely meet the client needs and implemented a one-link payment integration for a streamlined checkout experience.',
+          animationDelay: '900',
+          buttonLink: 'https://www.grattan.co.uk/?realestate=siteheaderlinks&linkname=logo',
+          buttonText: 'CHECK OUT',
+        },
+        {
+          heading: 'Krannich',
+          description: 'I led the front-end development for a global solar equipment e-commerce site, crafting a user-friendly Product Listing page with seamless integration of data actions. Leveraging React.js, HTML5, CSS, and Typescript, I ensured a robust coding experience. By employing CRM, I customized multiple pages to align with the client unique requirements, emphasizing regional language support for a global audience. Implementing cutting-edge technologies such as Dynamic Commerce, Mobx, Bootstrap, Azure Retail Server, and Azure, I orchestrated a sophisticated platform. Rigorous testing was paramount—I wrote comprehensive unit test cases using Jest and React Testing Library, achieving a flawless 100% code coverage.',
+          animationDelay: '900',
+          buttonLink: 'https://aus-mb.krannich-shop.com/',
+          buttonText: 'CHECK OUT',
+        },
+        {
           heading: 'Trukkr - Online Logistics Platform',
           description: 'Played a vital role at Trukkr, a Pakistani startup with 6M USD funding, by designing features, creating 2 microservices, and handling end to end development of websites and portals.',
           animationDelay: '700',
@@ -64,48 +78,7 @@ export const config = {
       ],
 
     },
-    internships: {
-      internship: [
-        {
-          companyName: 'Company Name',
-          role: 'Front-end Developer',
-          introText: '',
-          duration: '29/03/2022 - 29/05/2022',
-          keyPointOne: 'Built front-end of multiple website using ReactJS',
-          keyPointTwo:
-            'Add few lines here....',
-          keyPointThree: 'Add few lines here... if requried Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis voluptas dolo Perspiciatis voluptas do.',
-          keyPointFour:
-            'Add few lines here... if requried Lorem, ipsum dolor sit amet consectetur adipisicing architecto molestiae.',
-          offsetValue: '0',
-        },
-        {
-          companyName: 'Company Name',
-          role: 'Front-end Developer',
-          introText: '',
-          duration: '14/06/2021 - 14/07/2021',
-          keyPointOne: 'Built front-end of multiple website using ReactJS.',
-          keyPointTwo: 'Add few lines here... if requried',
-          keyPointThree:
-            'Add few lines here... if requried',
-          keyPointFour:
-            'Add few lines here... if requried Lorem, ipsum dolor sit amet consectetur adipisicing cto molestiae.',
-          offsetValue: '-1000',
-        },
-        {
-          companyName: 'Company Name',
-          role: 'Front-end Developer',
-          introText: '',
-          duration: '10/09/2020 - 10/11/2020',
-          keyPointOne:
-            'Add few lines here... if requried',
-          keyPointTwo: 'Add few lines here... if requried',
-          keyPointThree: 'Add few lines here... if requried',
-          keyPointFour: '',
-          offsetValue: '-1000',
-        },
-      ],
-    },
+
   },
 };
 
