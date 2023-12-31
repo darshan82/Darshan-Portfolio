@@ -82,7 +82,7 @@ const Contact = () =>
                         <div className="contact__info-details">
                             <ul>
                                 <li>
-                                    <FontAwesomeIcon icon={faLocationDot} size="2x" /><p><span>Address:&nbsp;&nbsp;</span>Clifton Karachi, Pakistan.   I am open to relocation for better opportunities if required.</p>
+                                    <FontAwesomeIcon icon={faLocationDot} size="2x" /><p><span>Address:&nbsp;&nbsp;</span>Dubai UAE, I am open to relocation for better opportunities if required.</p>
                                     
 
                                 </li>
