@@ -75,7 +75,7 @@ const About = () =>
                 </h2>
                 <p>
                   I am <span>Darshan Lal.</span> <br /> Highly passoinate
-                  Senior Full Stack JavaScript Developer with more than 5 years of experience.
+                  Senior Full Stack JavaScript Developer with more than 6 years of experience.
                 </p>
               </Link>
             </div>
@@ -94,8 +94,8 @@ const About = () =>
                   E<span>xperience</span>
                 </h2>
                 <p>
-                  <span>5 year of experiences.</span>
-                  <br />I have more than 5 years of experience in developing
+                  <span>6 year of experiences.</span>
+                  <br />I have more than 6 years of experience in developing
                   highly responsive frontend of websites, moblile applications and backend using React.js,React Native and
                   Node.js
                 </p>
