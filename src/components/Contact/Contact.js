@@ -87,14 +87,14 @@ const Contact = () =>
 
                                 </li>
                                 <li> <FontAwesomeIcon icon={faPhone} size="2x" /><p><span>Phone:</span>&nbsp;&nbsp;
-                                    <a href='tel:+923053888102' style={{ textDecoration: "none", color: "white" }}>
+                                    <a href='tel:+971569544696' style={{ textDecoration: "none", color: "white" }}>
 
-                                        (+92) 3053888102
+                                        (+971) 569544696
                                     </a>
 
                                 </p></li>
                                 <li> <FontAwesomeIcon icon={faEnvelope} size="2x" /><p><span>Email:&nbsp;&nbsp;</span>
-                                    <a href='mailto:+923053888102' style={{ textDecoration: "none", color: "white" }}>
+                                    <a href='mailto:+971569544696' style={{ textDecoration: "none", color: "white" }}>
                                         darshanmandhwani12@gmail.com
                                     </a>
 
