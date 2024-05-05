@@ -132,6 +132,7 @@ const Skill = () =>
                     <li>Firebase (2 years)</li>
                     <li>Jest (2 years)</li>
                     <li>RxJS (1 year)</li>
+                    <li>Microsoft commerce dynamic 365 (1 year)</li>
                   </ul>
 
                 </div>
