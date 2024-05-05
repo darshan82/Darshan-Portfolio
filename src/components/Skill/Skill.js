@@ -110,141 +110,63 @@ const Skill = () =>
             <div className="skill__info">
               <div className="skill__details-container">
                 <div className="skill__details">
-                  <h4>HTML / CSS</h4>
+                  <h4>Frontend Development:</h4>
                   <ul>
-                    <li>
-                      <span>HTML5, CSS3</span>
-                    </li>
-                    <li>
-                      <span>
-                        <b>Preprocessors:</b> LESS, SASS
-                      </span>
-                    </li>
-                    <li>
-                      <span>
-                        <b>CSS Libraries:</b> Bootstrap, Material UI, AntD
-                      </span>
-                    </li>
+                    <li>JavaScript (6 years)</li>
+                    <li>React.js (6 years)</li>
+                    <li>Redux (6 years)</li>
+                    <li>Microfrontend (1 year)</li>
+                    <li>Monorepo (1 year)</li>
+                    <li>HTML5 (6 years)</li>
+                    <li>CSS (6 years)</li>
+                    <li>Bootstrap (4 years)</li>
+                    <li>Ant Design (4 years)</li>
+                    <li>React Native (3 years)</li>
+                    <li>TypeScript (4 years)</li>
+                    <li>Next.js (3 years)</li>
+                    <li>Material UI (3 years)</li>
+                    <li>UI/UX (3 years)</li>
+                    <li>Tailwind CSS (2 years)</li>
+                    <li>SASS (2 years)</li>
+                    <li>jQuery (2 years)</li>
+                    <li>Firebase (2 years)</li>
+                    <li>Jest (2 years)</li>
+                    <li>RxJS (1 year)</li>
+                  </ul>
 
-                  </ul>
                 </div>
                 <div className="skill__details">
-                  <h4>JavaScript</h4>
+                  <h4>Backend Development:</h4>
                   <ul>
-                    <li>
-                      <span>
-                        <b>Frameworks & Libraries:</b> &nbsp; React JS, React
-                        Native, Vue.js, Next
-                      </span>
-                    </li>
+                    <li>Node.js (3 years)</li>
+                    <li>MongoDB (3 years)</li>
+                    <li>GraphQL (2 years)</li>
+                    <li>Rest APIs (6 years)</li>
+                    <li>MySQL (1 year)</li>
+                  </ul>
 
-                    <li>
-                      <span>React Native</span>
-                    </li>
-                    <li>
-                      <span>Typescript</span>
-                    </li>
-                    <li>
-                      <span>
-                        RxJS
-                      </span>
-                    </li>
-                    <li>
-                      <span>
-                        GraphQL
-                      </span>
-                    </li>
+                </div>
+                <div className="skill__details">
+                  <h4>Cloud Platforms & Tools:</h4>
+                  <ul>
+                    <li>Google Cloud (2 years)</li>
+                    <li>AWS (2 years)</li>
+                    <li>RabbitMQ (1 year)</li>
+                    <li>CI/CD (1 year)</li>
+                    <li>GitHub (6 years)</li>
+                    <li>Bitbucket (2 years)</li>
+                    <li>GitLab (1 year)</li>
                   </ul>
                 </div>
                 <div className="skill__details">
-                  <h4>State Management</h4>
+                  <h4>Project Management & Methodologies:</h4>
                   <ul>
-                    <li>
-                      <span>Redux</span>
-                    </li>
-                    <li>
-                      <span>Mobx</span>
-                    </li>
-                    <li>
-                      <span>Zustand</span>
-                    </li>
+                    <li>Agile & Scrum (6 years)</li>
+                    <li>Jira (6 years)</li>
                   </ul>
-                </div>
-                <div className="skill__details">
-                  <h4>Version Control Systems</h4>
-                  <ul>
-                    <li>
-                      <span>GIT</span>
-                    </li>
-                  </ul>
+
                 </div>
 
-                <div className="skill__details">
-                  <h4>Database</h4>
-                  <ul>
-                    <li>
-                      <span>SQL</span>
-                    </li>
-                    <li>
-                      <span>MongoDb</span>
-                    </li>
-                  </ul>
-                </div>
-
-                <div className="skill__details">
-                  <h4>Project Management</h4>
-                  <ul>
-                    <li>
-                      <span>Agile & Scrum</span>
-                    </li>
-                    <li>
-                      <span>JIRA</span>
-                    </li>
-                    <li>
-                      <span>Trello</span>
-                    </li>
-                    <li>
-                      <span>Asana</span>
-                    </li>
-                  </ul>
-                </div>
-
-                <div className="skill__details">
-                  <h4>E-Commerce</h4>
-                  <ul>
-                    <li>
-                      <span>Microsoft Commerce Dynamics</span>
-                    </li>
-                  </ul>
-                </div>
-                <div className="skill__details">
-                  <h4>Cloud</h4>
-                  <ul>
-                    <li>
-                      <span>Firebase</span>
-                    </li>
-                  </ul>
-                  <ul>
-                    <li>
-                      <span>AWS</span>
-                    </li>
-                  </ul>
-                 
-                </div>
-                <div className="skill__details">
-                  <h4>Server Side</h4>
-                  <ul>
-                    <li>
-                      <span>Node.js</span>
-                    </li>
-                    <li>
-                      <span>Express.js</span>
-                    </li>
-                    <li>
-                      <span>Rabbit MQ</span>
-                    </li>
-                  </ul>
-                </div>
               </div>
             </div>
 

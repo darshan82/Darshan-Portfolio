@@ -4,14 +4,21 @@ export const config = {
     projectCard: {
       cards: [
         {
-          heading: 'Grattan',
+          heading: 'Flydubai airline checkin & boarding',
+          description: 'A web system for airports, powered by Chromium, handles check-in, boarding, and luggage. It innovates with micro frontend architecture for scalability and maintenance, alongside a mono repo for efficient project management. Code optimization slashes build size for faster performance. Robust testing with Jest and Cypress ensures reliability. Leading the frontend team, collaboration yields high-quality solutions within budget and schedule.',
+          animationDelay: '900',
+          buttonLink: '#',
+          buttonText: 'Not accessible to regular users',
+        },
+        {
+          heading: 'Grattan - fashion ecommerce',
           description: 'I spearheaded the front-end development of the Product Cart page, seamlessly integrating MS Dynamics Commerce 365 and React.js while ensuring 100% code coverage through Jest and React Testing Library. Additionally, I customized multiple CRM pages to precisely meet the client needs and implemented a one-link payment integration for a streamlined checkout experience.',
           animationDelay: '900',
           buttonLink: 'https://www.grattan.co.uk/?realestate=siteheaderlinks&linkname=logo',
           buttonText: 'CHECK OUT',
         },
         {
-          heading: 'Krannich',
+          heading: 'Krannich - solar equipment ecommerce',
           description: 'I led the front-end development for a global solar equipment e-commerce site, crafting a user-friendly Product Listing page with seamless integration of data actions. Leveraging React.js, HTML5, CSS, and Typescript, I ensured a robust coding experience. By employing CRM, I customized multiple pages to align with the client unique requirements, emphasizing regional language support for a global audience. Implementing cutting-edge technologies such as Dynamic Commerce, Mobx, Bootstrap, Azure Retail Server, and Azure, I orchestrated a sophisticated platform. Rigorous testing was paramount—I wrote comprehensive unit test cases using Jest and React Testing Library, achieving a flawless 100% code coverage.',
           animationDelay: '900',
           buttonLink: 'https://aus-mb.krannich-shop.com/',

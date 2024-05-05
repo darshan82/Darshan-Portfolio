@@ -96,7 +96,7 @@ const About = () =>
                 <p>
                   <span>6 year of experiences.</span>
                   <br />I have more than 6 years of experience in developing
-                  highly responsive frontend of websites, moblile applications and backend using React.js,React Native and
+                  highly responsive frontend of websites, moblile applications and backend using React.js, Next.js, Microfrontend, Monorepo,React Native and
                   Node.js
                 </p>
               </Link>
@@ -108,28 +108,39 @@ const About = () =>
               data-aos-delay="500"
               data-aos-once="true"
             >
-              <Link to="/about/internships">
-                <h1>
-                  0<span>3</span>
-                </h1>
-                <h2>
-                  <span>Work Experience</span>
-                </h2>
-                <ul>
-                  <li>
-                    <span>Transferred from Systems LTD Pakistan to Tech Vista, Dubai UAE 07/2023 – Today</span> - Consultant Software Developer{" "}
-                  </li>
-                  <li>
-                    <span>Next Generation Innovation, Karachi, Pakistan 01/2022 – june/2023</span> - Senior Full-Stack Developer{" "}
-                  </li>
-                  <li>
-                    <span>Trukkr Pvt Limited, Karachi, Pakistan 07/2019 – 01/2022</span> - Senior Full Stack Developer{" "}
-                  </li>
-                  <li>
-                    <span>Gamitar Learning, India (Remote) 05/2018 –06/2019</span> - Frontend Developer{" "}
-                  </li>
-                </ul>
-              </Link>
+              <h2>
+                <span>Work Experience</span>
+              </h2>
+              <ol>
+                <li>
+                  <div style={{ color: "white" }}>Coforge Consultant Dubai UAE, working for flydubai airline </div>
+                  <div><span style={{ color: '#CCCCCC' }}>Senior Software Engineer</span>, <span>03/2024 – Today </span></div>
+                </li>
+                <li>
+                  <div style={{ color: 'white' }}>Transferred from Systems LTD Pakistan to Tech Vista, Dubai UAE</div>
+                  <div><span style={{ color: '#CCCCCC' }}>Consultant Software Developer,</span>
+                    <span> 07/2023 - 02/2024</span>
+                  </div>
+                </li>
+                <li>
+                  <div style={{ color: 'white' }}>Next Generation Innovation, Karachi, Pakistan </div>
+                  <div><span style={{ color: '#CCCCCC' }}>Senior Full-Stack Developer,</span>
+                    <span> 01/2022 – June/2023</span>
+                  </div>
+                </li>
+                <li>
+                  <div style={{ color: 'white' }}>Trukkr Pvt Limited, Karachi, Pakistan </div>
+                  <div><span style={{ color: '#CCCCCC' }}>Senior Full Stack Developer,</span>
+                    <span> 07/2019 – 01/2022</span>
+                  </div>
+                </li>
+                <li>
+                  <div style={{ color: 'white' }}>Gamitar Learning, India (Remote)</div>
+                  <div><span style={{ color: '#CCCCCC' }}>Frontend Developer,</span>
+                  <span> 05/2018 – 06/2019</span>
+                  </div>
+                </li>
+              </ol>
             </div>
             <div
               className="about__details"
