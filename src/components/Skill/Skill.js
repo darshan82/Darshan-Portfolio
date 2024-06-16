@@ -115,6 +115,7 @@ const Skill = () =>
                     <li>JavaScript (6 years)</li>
                     <li>React.js (6 years)</li>
                     <li>Redux (6 years)</li>
+                    <li>Angular (2 years)</li>
                     <li>Microfrontend (1 year)</li>
                     <li>Monorepo (1 year)</li>
                     <li>HTML5 (6 years)</li>
