@@ -4,8 +4,22 @@ export const config = {
     projectCard: {
       cards: [
         {
-          heading: 'Flydubai airline checkin & boarding',
-          description: 'A web system for airports, powered by Chromium, handles check-in, boarding, and luggage. It innovates with micro frontend architecture for scalability and maintenance, alongside a mono repo for efficient project management. Code optimization slashes build size for faster performance. Robust testing with Jest and Cypress ensures reliability. Leading the frontend team, collaboration yields high-quality solutions within budget and schedule.',
+          heading: 'Self Check-in Kiosk - Flydubai Airline',
+          description: 'Developed a multilingual self-service check-in kiosk app using Angular for international passengers, supporting 15 languages. Enabled passport scanning, baggage tagging, seat selection, service purchases, payment processing, and integrated multiple aviation backend systems to enhance the airport experience.',
+          animationDelay: '900',
+          buttonLink: '#',
+          buttonText: 'Not accessible to regular users',
+        },
+        {
+          heading: 'Ezboarding - Mobile-Based Departure Control System',
+          description: 'Built a mobile-based Departure Control System (DCS) for airport gate agents to efficiently manage flights, passengers, and boarding operations. Achieved seamless mobile boarding at 40 passengers per minute and integrated real-time flight updates and passenger management features.',
+          animationDelay: '900',
+          buttonLink: '#',
+          buttonText: 'Not accessible to regular users',
+        },
+        {
+          heading: 'Sprint DCS - Web-Based Departure Control System',
+          description: 'Developed a secure web-based Departure Control System for managing flights, passengers, boarding, load control, and compliance reporting. Designed a scalable Microfrontend architecture and built modular components to optimize real-time boarding workflows at airport gates.',
           animationDelay: '900',
           buttonLink: '#',
           buttonText: 'Not accessible to regular users',

@@ -112,27 +112,27 @@ const Skill = () =>
                 <div className="skill__details">
                   <h4>Frontend Development:</h4>
                   <ul>
-                    <li>JavaScript (6 years)</li>
-                    <li>React.js (6 years)</li>
-                    <li>Redux (6 years)</li>
+                    <li>JavaScript (7 years)</li>
+                    <li>React.js (7 years)</li>
+                    <li>Redux (7 years)</li>
                     <li>Angular (2 years)</li>
-                    <li>Microfrontend (1 year)</li>
-                    <li>Monorepo (1 year)</li>
-                    <li>HTML5 (6 years)</li>
-                    <li>CSS (6 years)</li>
+                    <li>Microfrontend (3 years)</li>
+                    <li>Monorepo (3 years)</li>
+                    <li>HTML5 (7 years)</li>
+                    <li>CSS (7 years)</li>
                     <li>Bootstrap (4 years)</li>
                     <li>Ant Design (4 years)</li>
                     <li>React Native (3 years)</li>
-                    <li>TypeScript (4 years)</li>
-                    <li>Next.js (3 years)</li>
-                    <li>Material UI (3 years)</li>
+                    <li>TypeScript (5 years)</li>
+                    <li>Next.js (7 years)</li>
+                    <li>Material UI (5 years)</li>
                     <li>UI/UX (3 years)</li>
-                    <li>Tailwind CSS (2 years)</li>
-                    <li>SASS (2 years)</li>
+                    <li>Tailwind CSS (3 years)</li>
+                    <li>SASS (3 years)</li>
                     <li>jQuery (2 years)</li>
                     <li>Firebase (2 years)</li>
-                    <li>Jest (2 years)</li>
-                    <li>RxJS (1 year)</li>
+                    <li>Jest (4 years)</li>
+                    <li>RxJS (2 years)</li>
                     <li>Microsoft commerce dynamic 365 (1 year)</li>
                   </ul>
 
@@ -140,10 +140,10 @@ const Skill = () =>
                 <div className="skill__details">
                   <h4>Backend Development:</h4>
                   <ul>
-                    <li>Node.js (3 years)</li>
-                    <li>MongoDB (3 years)</li>
+                    <li>Node.js (4 years)</li>
+                    <li>MongoDB (4 years)</li>
                     <li>GraphQL (2 years)</li>
-                    <li>Rest APIs (6 years)</li>
+                    <li>Rest APIs (7 years)</li>
                     <li>MySQL (1 year)</li>
                   </ul>
 
@@ -152,10 +152,10 @@ const Skill = () =>
                   <h4>Cloud Platforms & Tools:</h4>
                   <ul>
                     <li>Google Cloud (2 years)</li>
-                    <li>AWS (2 years)</li>
+                    <li>AWS (3 years)</li>
                     <li>RabbitMQ (1 year)</li>
-                    <li>CI/CD (1 year)</li>
-                    <li>GitHub (6 years)</li>
+                    <li>CI/CD (2 years)</li>
+                    <li>GitHub (7 years)</li>
                     <li>Bitbucket (2 years)</li>
                     <li>GitLab (1 year)</li>
                   </ul>
@@ -163,8 +163,8 @@ const Skill = () =>
                 <div className="skill__details">
                   <h4>Project Management & Methodologies:</h4>
                   <ul>
-                    <li>Agile & Scrum (6 years)</li>
-                    <li>Jira (6 years)</li>
+                    <li>Agile & Scrum (7 years)</li>
+                    <li>Jira (7 years)</li>
                   </ul>
 
                 </div>

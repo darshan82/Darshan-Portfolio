@@ -66,7 +66,6 @@ const About = () =>
               data-aos-delay="0"
               data-aos-once="true"
             >
-              <Link to="/about/intro">
                 <h1>
                   0<span>1</span>
                 </h1>
@@ -74,10 +73,9 @@ const About = () =>
                   H<span>ello,</span>
                 </h2>
                 <p>
-                  I am <span>Darshan Lal.</span> <br /> Highly passoinate
-                  Senior Full Stack JavaScript Developer with more than 6 years of experience.
+                  I am <span>Darshan Lal.</span> <br /> Highly Passionate
+                  Senior Full Stack JavaScript Developer with 7+ years of experience building scalable web, mobile, and cloud solutions.
                 </p>
-              </Link>
             </div>
             <div
               className="about__details"
@@ -94,8 +92,8 @@ const About = () =>
                   E<span>xperience</span>
                 </h2>
                 <p>
-                  <span>6 year of experiences.</span>
-                  <br />I have more than 6 years of experience in developing
+                  <span>7 year of experiences.</span>
+                  <br />I have more than 7 years of experience in developing
                   highly responsive frontend of websites, moblile applications and backend using React.js, Next.js, Microfrontend, Monorepo,React Native and
                   Node.js
                 </p>
@@ -113,7 +111,7 @@ const About = () =>
               </h2>
               <ol>
                 <li>
-                  <div style={{ color: "white" }}>Coforge Consultant Dubai UAE, working for flydubai airline </div>
+                  <div style={{ color: "white" }}>Coforge Consultant, Dubai, UAE (Flydubai Airline)</div>
                   <div><span style={{ color: '#CCCCCC' }}>Senior Software Engineer</span>, <span>03/2024 – Today </span></div>
                 </li>
                 <li>
