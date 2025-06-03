@@ -74,7 +74,7 @@ const About = () =>
                 </h2>
                 <p>
                   I am <span>Darshan Lal.</span> <br /> Highly Passionate
-                  Senior Full Stack JavaScript Developer with 7+ years of experience building scalable web, mobile, and cloud solutions.
+                  Senior Full Stack JavaScript Developer with 6+ years of experience building scalable web, mobile, and cloud solutions.
                 </p>
             </div>
             <div
@@ -92,8 +92,8 @@ const About = () =>
                   E<span>xperience</span>
                 </h2>
                 <p>
-                  <span>7 year of experiences.</span>
-                  <br />I have more than 7 years of experience in developing
+                  <span>6 year of experiences.</span>
+                  <br />I have more than 6 years of experience in developing
                   highly responsive frontend of websites, moblile applications and backend using React.js, Next.js, Microfrontend, Monorepo,React Native and
                   Node.js
                 </p>
@@ -130,12 +130,6 @@ const About = () =>
                   <div style={{ color: 'white' }}>Trukkr Pvt Limited, Karachi, Pakistan </div>
                   <div><span style={{ color: '#CCCCCC' }}>Senior Full Stack Developer,</span>
                     <span> 07/2019 – 01/2022</span>
-                  </div>
-                </li>
-                <li>
-                  <div style={{ color: 'white' }}>Gamitar Learning, India (Remote)</div>
-                  <div><span style={{ color: '#CCCCCC' }}>Frontend Developer,</span>
-                  <span> 05/2018 – 06/2019</span>
                   </div>
                 </li>
               </ol>

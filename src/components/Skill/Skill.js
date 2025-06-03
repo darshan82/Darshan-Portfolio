@@ -112,19 +112,19 @@ const Skill = () =>
                 <div className="skill__details">
                   <h4>Frontend Development:</h4>
                   <ul>
-                    <li>JavaScript (7 years)</li>
-                    <li>React.js (7 years)</li>
-                    <li>Redux (7 years)</li>
+                    <li>JavaScript (6 years)</li>
+                    <li>React.js (6 years)</li>
+                    <li>Redux (6 years)</li>
                     <li>Angular (2 years)</li>
                     <li>Microfrontend (3 years)</li>
                     <li>Monorepo (3 years)</li>
-                    <li>HTML5 (7 years)</li>
-                    <li>CSS (7 years)</li>
+                    <li>HTML5 (6 years)</li>
+                    <li>CSS (6 years)</li>
                     <li>Bootstrap (4 years)</li>
                     <li>Ant Design (4 years)</li>
                     <li>React Native (3 years)</li>
                     <li>TypeScript (5 years)</li>
-                    <li>Next.js (7 years)</li>
+                    <li>Next.js (6 years)</li>
                     <li>Material UI (5 years)</li>
                     <li>UI/UX (3 years)</li>
                     <li>Tailwind CSS (3 years)</li>
@@ -143,7 +143,7 @@ const Skill = () =>
                     <li>Node.js (4 years)</li>
                     <li>MongoDB (4 years)</li>
                     <li>GraphQL (2 years)</li>
-                    <li>Rest APIs (7 years)</li>
+                    <li>Rest APIs (6 years)</li>
                     <li>MySQL (1 year)</li>
                   </ul>
 
@@ -155,7 +155,7 @@ const Skill = () =>
                     <li>AWS (3 years)</li>
                     <li>RabbitMQ (1 year)</li>
                     <li>CI/CD (2 years)</li>
-                    <li>GitHub (7 years)</li>
+                    <li>GitHub (6 years)</li>
                     <li>Bitbucket (2 years)</li>
                     <li>GitLab (1 year)</li>
                   </ul>
@@ -163,8 +163,8 @@ const Skill = () =>
                 <div className="skill__details">
                   <h4>Project Management & Methodologies:</h4>
                   <ul>
-                    <li>Agile & Scrum (7 years)</li>
-                    <li>Jira (7 years)</li>
+                    <li>Agile & Scrum (6 years)</li>
+                    <li>Jira (6 years)</li>
                   </ul>
 
                 </div>
