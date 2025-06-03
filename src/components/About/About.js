@@ -111,7 +111,7 @@ const About = () =>
               </h2>
               <ol>
                 <li>
-                  <div style={{ color: "white" }}>Coforge Consultant, Dubai, UAE (Flydubai Airline)</div>
+                  <div style={{ color: "white" }}>Coforge Consultant, Dubai, UAE</div>
                   <div><span style={{ color: '#CCCCCC' }}>Senior Software Engineer</span>, <span>03/2024 – Today </span></div>
                 </li>
                 <li>
