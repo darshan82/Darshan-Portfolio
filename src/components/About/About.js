@@ -66,16 +66,16 @@ const About = () =>
               data-aos-delay="0"
               data-aos-once="true"
             >
-                <h1>
-                  0<span>1</span>
-                </h1>
-                <h2>
-                  H<span>ello,</span>
-                </h2>
-                <p>
-                  I am <span>Darshan Lal.</span> <br /> Highly Passionate
-                  Senior Full Stack JavaScript Developer with 6+ years of experience building scalable web, mobile, and cloud solutions.
-                </p>
+              <h1>
+                0<span>1</span>
+              </h1>
+              <h2>
+                H<span>ello,</span>
+              </h2>
+              <p>
+                I am <span>Darshan Lal.</span> <br /> Highly Passionate
+                Senior Full Stack JavaScript Developer with 6+ years of experience building scalable web, mobile, and cloud solutions.
+              </p>
             </div>
             <div
               className="about__details"
@@ -111,8 +111,12 @@ const About = () =>
               </h2>
               <ol>
                 <li>
+                  <div style={{ color: "white" }}>Flydubai, UAE</div>
+                  <div><span style={{ color: '#CCCCCC' }}>Software Engineer</span>, <span>10/2024 – Today </span></div>
+                </li>
+                <li>
                   <div style={{ color: "white" }}>Coforge Consultant, Dubai, UAE</div>
-                  <div><span style={{ color: '#CCCCCC' }}>Senior Software Engineer</span>, <span>03/2024 – Today </span></div>
+                  <div><span style={{ color: '#CCCCCC' }}>Senior Software Engineer</span>, <span>03/2024 – 10/2024 </span></div>
                 </li>
                 <li>
                   <div style={{ color: 'white' }}>Transferred from Systems LTD Pakistan to Tech Vista, Dubai UAE</div>

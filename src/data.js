@@ -4,6 +4,13 @@ export const config = {
     projectCard: {
       cards: [
         {
+          heading: 'Sprint DCS - Web-Based Departure Control System',
+          description: 'Developed a secure web-based Departure Control System for managing flights, passengers,checkin,flight control, boarding, load control, and compliance reporting. Designed a scalable Microfrontend architecture and built modular components to optimize real-time workflows at airport.',
+          animationDelay: '900',
+          buttonLink: '#',
+          buttonText: 'Not accessible to regular users',
+        },
+        {
           heading: 'Self Check-in Kiosk - Flydubai Airline',
           description: 'Developed a multilingual self-service check-in kiosk app using Angular for international passengers, supporting 15 languages. Enabled passport scanning, baggage tagging, seat selection, service purchases, payment processing, and integrated multiple aviation backend systems to enhance the airport experience.',
           animationDelay: '900',
@@ -17,13 +24,7 @@ export const config = {
           buttonLink: '#',
           buttonText: 'Not accessible to regular users',
         },
-        {
-          heading: 'Sprint DCS - Web-Based Departure Control System',
-          description: 'Developed a secure web-based Departure Control System for managing flights, passengers, boarding, load control, and compliance reporting. Designed a scalable Microfrontend architecture and built modular components to optimize real-time boarding workflows at airport gates.',
-          animationDelay: '900',
-          buttonLink: '#',
-          buttonText: 'Not accessible to regular users',
-        },
+
         {
           heading: 'Grattan - fashion ecommerce',
           description: 'I spearheaded the front-end development of the Product Cart page, seamlessly integrating MS Dynamics Commerce 365 and React.js while ensuring 100% code coverage through Jest and React Testing Library. Additionally, I customized multiple CRM pages to precisely meet the client needs and implemented a one-link payment integration for a streamlined checkout experience.',
